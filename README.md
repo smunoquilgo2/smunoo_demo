@@ -11,3 +11,8 @@
 |-------|--------|
 | Penalaran Umum (DEMO) | [Start](http://quilgo.com/t/PsBKIEc1KT01VMtm){:.btn}| 
 
+<style>
+  .footer {
+    display: none;
+  }
+</style>
