@@ -9,7 +9,7 @@
 
 | Subtest | Link |
 |-------|--------|
-| Penalaran Umum (DEMO) | [Start](http://quilgo.com/t/PsBKIEc1KT01VMtm){:.btn}| 
+| Penalaran Umum (DEMO) | [Start](https://quilgo.com/form/auth/google?formHash=PsBKIEc1KT01VMtm){:.btn}| 
 
 <style>
   .footer {
